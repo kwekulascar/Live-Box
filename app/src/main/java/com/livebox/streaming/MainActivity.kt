@@ -23,7 +23,7 @@ private val Dark = Color(0xFF101018)
 private val Red = Color(0xFFE50914)
 
 private const val SAMPLE_VIDEO =
-    "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4"
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
